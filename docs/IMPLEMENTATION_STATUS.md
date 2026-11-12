@@ -12,8 +12,8 @@
 | Phase | Description | Deliverables | Status | Verification Gate |
 |---|---|---|---|---|
 | **Phase 0** | Complete Legacy Website Audit | `website-inventory.md`, `legacy-modernization-assessment.md` | **COMPLETED** | Verified page taxonomy, verified statutory data |
-| **Phase 1** | Modern Enterprise Architecture | System architecture, data design, API/content contracts, deployment design, ADRs | **IN PROGRESS** | Modularity & GitHub Pages static compatibility |
-| **Phase 2** | Premium University UI/UX Design | Tailwind design tokens, typography, accessible UI components | **PENDING** | WCAG 2.2 AA compliant tokens & layouts |
+| **Phase 1** | Modern Enterprise Architecture | System architecture, data design, API/content contracts, deployment design, ADRs | **COMPLETED** | Modularity & GitHub Pages static compatibility |
+| **Phase 2** | Premium University UI/UX Design | Tailwind design tokens, typography, accessible UI components | **IN PROGRESS** | WCAG 2.2 AA compliant tokens & layouts |
 | **Phase 3** | Public Website Development | Modules 1–7 (About, Academics, Admissions, Faculty, Documents, News, Student Services) | **PENDING** | Full interactive features & responsive screens |
 | **Phase 4** | Content Management & Admin Demo | CMS data contracts, role-based schema, editor preview | **PENDING** | Type-safe JSON schemas & admin controls |
 | **Phase 5** | High-Performance Engineering | Core Web Vitals optimization, static export, asset optimization | **PENDING** | LCP ≤ 2.5s, CLS ≤ 0.1, INP ≤ 200ms |
