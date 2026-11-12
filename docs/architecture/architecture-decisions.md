@@ -6,3 +6,4 @@
 3. **Decoupled Security:** Total isolation of public presentation layer from sensitive student records.
 4. **Resilient GitHub Pages CI/CD:** Complete CI/CD test, build, and deploy loop orchestrated natively in GitHub Actions.
 5. **Mobile-First Responsive UX:** Fully responsive layouts adhering to WCAG 2.2 AA accessibility standards.
+

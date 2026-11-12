@@ -29,3 +29,4 @@ sequenceDiagram
 ## 2. Environment Configuration
 - **Base Path Resolution:** `NEXT_PUBLIC_BASE_PATH` configured to `/univ-sainath` on GitHub Pages builds and empty `""` for local development or custom apex domain.
 - **Asset Optimization:** Images unoptimized at export time (`unoptimized: true` in `next.config.js`) to guarantee compatibility with static web servers without requiring Node image resizing microservices.
+

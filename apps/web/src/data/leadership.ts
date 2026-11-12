@@ -35,3 +35,4 @@ export const recruitersData: PlacementPartner[] = [
   { id: 'rec-11', name: 'Adani Mining', sector: 'Mining & Natural Resources', logoPlaceholder: 'ADANI' },
   { id: 'rec-12', name: 'Cipla', sector: 'Pharmaceutical Research', logoPlaceholder: 'CIPLA' },
 ];
+

@@ -112,3 +112,4 @@ export const documentsData: UniversityDocument[] = [
     description: 'RTI cell structure, designated PIO details, appellate authority contact, and application fee procedures.',
   },
 ];
+

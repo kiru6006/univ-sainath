@@ -119,3 +119,4 @@ Representative pages (Homepage, Academics/Programs, Admissions, Disclosures, Con
 - **Phase 5 & 6: Performance, Accessibility & Security** — Core Web Vitals optimization, CSP, structured data (JSON-LD), accessible semantics.
 - **Phase 7 & 8: Test Automation & Quality Gates** — Vitest unit & integration test suites, automated verification.
 - **Phase 9: CI/CD Pipeline & GitHub Pages Automation** — GitHub Actions build and deployment workflow (`deploy.yml`).
+

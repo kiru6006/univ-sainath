@@ -85,3 +85,4 @@ For zero-latency GitHub Pages static hosting, domain data models are exported as
 - `faculty.ts`: Faculty directory entries with designations, credentials, and subjects.
 - `documents.ts`: Public disclosures, UGC 2(f) gazettes, BCI/PCI orders, examination notifications.
 - `news.ts`: Announcements, circulars, upcoming events, academic calendar.
+

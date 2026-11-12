@@ -59,3 +59,4 @@ export default function DepartmentCard({ school }: DepartmentCardProps) {
     </div>
   );
 }
+

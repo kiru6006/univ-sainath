@@ -27,3 +27,4 @@
 8. **`SearchBox` & `Breadcrumb`:** Instant client-side search across all programs and circulars; accessible breadcrumb navigation.
 9. **`ApplicationStatus` & `ContactCard`:** Self-service application inquiry tracker and departmental telephone directory.
 10. **`UniversityFooter`:** Comprehensive 4-column footer with mandatory disclosures, UGC notices, emergency helplines, campus address, and copyright.
+

@@ -324,3 +324,4 @@ export const programsData: Program[] = [
     curriculumHighlights: ['Research Methodology & Ethics', 'Advanced Subject Electives', 'Literature Review Seminar', 'Pre-Ph.D. Comprehensive Viva', 'Doctoral Thesis Defense'],
   },
 ];
+

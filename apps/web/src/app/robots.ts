@@ -10,3 +10,4 @@ export default function robots(): MetadataRoute.Robots {
     sitemap: 'https://kiru6006.github.io/univ-sainath/sitemap.xml',
   };
 }
+

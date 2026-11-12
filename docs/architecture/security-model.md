@@ -34,3 +34,4 @@ flowchart LR
   - Img-src `'self' data: https:`
   - Connect-src `'self'`
   - Frame-ancestors `'none'` (prevents clickjacking)
+

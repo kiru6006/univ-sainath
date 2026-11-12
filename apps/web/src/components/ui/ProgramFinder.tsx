@@ -152,3 +152,4 @@ export default function ProgramFinder({ initialDegree, initialSchool }: ProgramF
     </div>
   );
 }
+

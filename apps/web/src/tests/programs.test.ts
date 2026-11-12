@@ -39,3 +39,4 @@ describe('Academic Programs Integrity Suite', () => {
     expect(degreeNames.some((n) => n.includes('agriculture'))).toBe(true);
   });
 });
+

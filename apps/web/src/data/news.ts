@@ -54,3 +54,4 @@ export const newsAnnouncementsData: Announcement[] = [
     externalLink: '/admissions/scholarships',
   },
 ];
+

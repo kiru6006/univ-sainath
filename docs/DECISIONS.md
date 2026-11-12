@@ -27,3 +27,4 @@
 - **Context:** University websites require absolute legal accuracy regarding UGC 2(f) status, statutory council approvals (AIU, PCI, BCI, NCTE, INC), and official leadership.
 - **Decision:** Disallow any fabricated rankings, non-existent accreditations, or synthetic faculty profiles. Ground all academic information in verified statutory records (Jharkhand Act No. 15 of 2012).
 - **Consequences:** Guarantees institutional compliance and consumer trust.
+

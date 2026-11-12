@@ -99,3 +99,4 @@ export const schoolsData: School[] = [
     deanName: 'Dr. Sunita Kumari',
   },
 ];
+

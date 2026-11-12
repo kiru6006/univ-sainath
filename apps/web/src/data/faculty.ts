@@ -126,3 +126,4 @@ export const facultyData: FacultyMember[] = [
     publicationsCount: 22,
   },
 ];
+

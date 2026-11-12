@@ -78,3 +78,4 @@ export interface Announcement {
 - `GET /api/v1/announcements` — List active circulars and notices.
 - `POST /api/v1/admissions/enquiry` — Submit admission enquiry and lead capture.
 - `GET /api/v1/admissions/status/{applicationId}` — Inquire real-time application processing stage.
+

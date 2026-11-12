@@ -77,3 +77,4 @@ flowchart TD
 - **Public Static Pages:** Pre-rendered at compile time using Next.js Static Site Generation (SSG). HTML, CSS, and minimal JS bundles delivered directly from GitHub Pages CDN.
 - **Client-Side Interactivity:** React 18 hydration enables instant client-side searching across programs, departments, faculty members, and circulars without secondary network roundtrips.
 - **Transactional Services (Student Corner):** Student authentication, grades, admit cards, and fee payment are bridged cleanly via deep-link tokens and official portal anchors to `student.sainathuniversity.com/StudentCorner.aspx`.
+
